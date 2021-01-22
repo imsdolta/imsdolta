@@ -1,8 +1,7 @@
 # Hi folks <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-[![Header](https://pbs.twimg.com/profile_images/1025795072141320194/c5ERQ0Xh_400x400.jpg)](https://imsdolta.github.io/)
-
+![Header](https://pbs.twimg.com/profile_images/1025795072141320194/c5ERQ0Xh_400x400.jpg)
 
 
  
