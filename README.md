@@ -4,8 +4,10 @@
 ![Header](https://pbs.twimg.com/profile_images/1025795072141320194/c5ERQ0Xh_400x400.jpg)
 
 
- 
- My name is Sachin Dolta and I am a software developer with interest in backend technologies. I love to work in node js and similar technologies. 
+Hello, I'm Sachin Dolta.
+I'm a full stack web developer.
+
+Committed to the philosophy of lifelong learning, I’m a full stack developer with a deep passion for JavaScript, React and all things web development.
 
  
 
